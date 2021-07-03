@@ -1,4 +1,4 @@
-### ° Elaini Cristina
+###  Elaini Cristina 
 
 - 🔭 Atualmente estou estudando em: @labenu_
 - 💬 JS || React.js || Bootstrap || HTML || CSS
