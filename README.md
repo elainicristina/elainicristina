@@ -1,4 +1,4 @@
-##  Elaini Cristina 
+##  Oi, sou a Elaini Cristina !
 
 👩‍💻 Front-end developer, com conhecimento em HTML, CSS, JavaScript, React.js incluindo Hooks e Styled-Components, consumo de APIs Rest, Git e GitHub, SCSS, Bootstrap. Sou apaixonada por tudo relacionado a tecnologia, desenvolvimento, artes, musicas. Acredito que a cada novidade aprendida, admirada eleva a alma e o conhecimento.
 
