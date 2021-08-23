@@ -8,6 +8,3 @@
 
 📸 [Instagram](https://www.instagram.com/elainiicristina/)  💼[Linkedin](https://www.linkedin.com/in/elaini-cristina-85234820a/)  
 
-
-
-![Anurag's GitHub stats](https://github.com/elainicristina.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
