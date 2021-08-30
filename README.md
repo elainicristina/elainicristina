@@ -10,5 +10,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainicristina)](https://github.com/elainicristina/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elainicristina&repo=github-readme-stats)](https://github.com/elainicristina/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elainicristina&repo=github-readme-elainicristina)](https://github.com/elainicristina/github-readme-stats)
 
