@@ -7,8 +7,8 @@
 🇺🇸 I'm a full stack developer and currently working with ruby ​​on rails. In addition to programming, I'm a makeup artist, I love pop/rock. See some of my projects below.
 
 - JavaScript
-- TypeScript
 - Ruby
+- TypeScript
 - Linux
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png" width="40" height="40"/> <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
