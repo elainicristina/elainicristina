@@ -23,3 +23,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainicristina&layout=compact)](https://github.com/elainicristina/github-readme-stats)
 
+
+![Snake animation](https://github.com/elainicristina/elainicristina/blob/output/github-contribution-grid-snake.svg)
