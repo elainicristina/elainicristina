@@ -1,21 +1,18 @@
 ##  Oi, sou a Elaini Cristina !
 
-👩‍💻 Desenvolvedora Ruby on Rails.
+👩‍💻 Desenvolvedora Ruby on Rails em Meu Posto App.
 
-## Linguagens, Frameworks e outros.
+🇧🇷 Sou desenvolvedor full stack e atualmente trabalho com ruby on rails. Além de programação sou maquiadora, amo pop/rock. Veja alguns projetos meus a baixo.
 
-- JavaScript   - Ruby on Rails
-- Ruby         - HTML
-- TypeScript   - CSS
--  Express
--  Knexs
--  React.js
--   Git
--   GitHub
+🇺🇸 I'm a full stack developer and currently working with ruby ​​on rails. In addition to programming, I'm a makeup artist, I love pop/rock. See some of my projects below.
 
-- 🍺 Javascript, TypeScript, 🔯 React.js, 🅱 Bootstrap, 🖌️ CSS3, Node.js, 
-- 🐧 Linux 
-- 😴 paz e amor ✌
+- JavaScript 🍺
+- TypeScript 📇
+- Ruby  🔴💎
+- Linux 🐧
+
+
+
 
 📸 [Instagram](https://www.instagram.com/elainiicristina/)  💼[Linkedin](https://www.linkedin.com/in/elaini-cristina-85234820a/)  
 
