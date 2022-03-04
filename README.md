@@ -1,4 +1,7 @@
-##  Oi, sou a Elaini Cristina ! (ela/dela)
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/elaini.png">
+
+</br>
+</br>
 
 👩‍💻 Desenvolvedora Ruby on Rails em Meu Posto App.
 
