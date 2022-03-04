@@ -1,10 +1,21 @@
 ##  Oi, sou a Elaini Cristina !
 
-👩‍💻 Developer, com conhecimento em HTML, CSS, JavaScript, TypeScript, Express, Knexs, React.js incluindo Hooks e Styled-Components, consumo de APIs Rest, Git e GitHub, SCSS, Bootstrap. Sou apaixonada por tudo relacionado a tecnologia, desenvolvimento, artes, musicas. Acredito que a cada novidade aprendida, admirada eleva a alma e o conhecimento.
+👩‍💻 Desenvolvedora Ruby on Rails.
+
+## Linguagens, Frameworks e outros.
+
+- JavaScript   - Ruby on Rails
+- Ruby         - HTML
+- TypeScript   - CSS
+-  Express
+-  Knexs
+-  React.js
+-   Git
+-   GitHub
 
 - 🍺 Javascript, TypeScript, 🔯 React.js, 🅱 Bootstrap, 🖌️ CSS3, Node.js, 
 - 🐧 Linux 
-- 😴 Hobby ficar de boas na lagoa.
+- 😴 paz e amor ✌
 
 📸 [Instagram](https://www.instagram.com/elainiicristina/)  💼[Linkedin](https://www.linkedin.com/in/elaini-cristina-85234820a/)  
 
