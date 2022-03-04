@@ -3,6 +3,10 @@
 </br>
 </br>
 
+
+## Olá, sou Elaini Cristina !
+
+
 👩‍💻 Desenvolvedora Ruby on Rails em Meu Posto App.
 
 🇧🇷 Sou desenvolvedor full stack e atualmente trabalho com ruby on rails. Além de programação sou maquiadora, amo pop/rock. Veja alguns projetos meus a baixo.
