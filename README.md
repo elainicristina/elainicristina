@@ -9,9 +9,9 @@
 
 👩‍💻 Desenvolvedora Ruby on Rails em Meu Posto App.
 
-🇧🇷 Sou desenvolvedor full stack e atualmente trabalho com ruby on rails. Além de programação sou maquiadora, amo pop/rock. Veja alguns projetos meus a baixo.
+🇧🇷 Desenvolvedora Full stack, atualmente faço parte do time Meu Posto App. Moro na capital da cerveja ... BNU heheh, sou apaixonada por programação e maquiagem! Caçadora oficial de bugs e maquiadora nas horas vagas e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! heart
 
-🇺🇸 I'm a full stack developer and currently working with ruby on rails. In addition to programming, I'm a makeup artist, I love pop/rock. See some of my projects below.
+🇺🇸 Full stack developer, I'm currently part of the Meu Posto App team. I live in the beer capital... BNU heheh, I'm passionate about programming and makeup! Official bug hunter and makeup artist in my spare time and the more I learn and get angry, the more I love it all! heart
 
 - JavaScript
 - Ruby
