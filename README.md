@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="file:///home/elaini/Downloads/elaini.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/elainicristina/elainicristina/blob/main/elaini.png">
 
 </br>
 </br>
