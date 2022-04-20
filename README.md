@@ -17,6 +17,7 @@
 - Ruby
 - TypeScript
 - Linux
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"
     width="40" height="40" /> <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png" width="40"
