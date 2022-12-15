@@ -4,7 +4,7 @@
 </br>
 
 
-## Olá, sou Elaini Cristina !
+## Olá, sou Elaini Carvalho !
 
 
 👩‍💻 Desenvolvedora Ruby on Rails em Meu Posto App.
